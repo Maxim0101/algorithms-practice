@@ -1,10 +1,11 @@
 # algorithms-practice
-This repository contains all of the algorithms I have practiced and implemented on my own time. 
+This repository will contain all of the algorithms I have practiced and studied.
 
 Each file will contain the following:
-- Name of algorithm [Time Complexity, Space Complexity]
-- advantages
-- disadvantages
-- pseudocode
-- my code
-- An AI's optimized version of my code to compare
+- Purpose of the algorithm
+- Function (how the algorithm works)
+- Best Use Cases
+- Time Complexity
+- Space Complexity
+- My Code
+- Testing Examples
