@@ -1,5 +1,5 @@
 # algorithms-practice
-This repository will contain all of the algorithms I have practiced and studied. I will also practice using multiple languages, usually Java and Python. 
+This repository will contain all of the algorithms I have practiced and studied. I will also practice using different languages, usually Java and Python. 
 
 Each file will contain the following:
 - Purpose of the algorithm
