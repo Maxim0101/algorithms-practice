@@ -1,5 +1,9 @@
 # algorithms-practice
-This repository will contain all of the algorithms I have practiced and studied. I will also practice using different languages, usually Java and Python. 
+This repository will contain all of the algorithms I have studied and practiced. I will also use different languages to implement them, usually Java and Python. 
+
+The goal is to reinforce my understanding of the algorithms and data structures I have learned and store it in long-term memory so I can easily recall and use what I need when I need it.
+
+It's also a way to display how much I know, but be mindful that this of course is updated gradually and does not include everything I know. 
 
 Each file will contain the following:
 - Purpose of the algorithm
@@ -8,4 +12,4 @@ Each file will contain the following:
 - Time Complexity
 - Space Complexity
 - My Code
-- Testing Examples
+- Test Cases
